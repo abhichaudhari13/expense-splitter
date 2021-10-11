@@ -1,0 +1,11 @@
+{
+  "name": "expense-splitter",
+  "version": "1.0.0",
+  "description": "application for splitting expense among friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhijit Chaudhari",
+  "license": "ISC"
+}
